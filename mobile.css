@@ -1,0 +1,131 @@
+.bar {
+    visibility: hidden;
+}
+
+#abox {
+    position: relative;
+    left: -200px;
+}
+
+.container {
+    left: -200px;
+    margin-top: 300px;
+}
+
+.navbar #input {
+    visibility: hidden;
+}
+
+.navbar .btn {
+    visibility: hidden;
+}
+
+.navbar #logo1 {
+    visibility: hidden;
+}
+
+.navbar #logo3 {
+    visibility: hidden;
+}
+
+.menu {
+    visibility: visible;
+    width: 32px;
+    height: 32px;
+    left: -3px;
+    top: -165px;
+}
+
+.navbar {
+    height: 160px;
+    width: 1066px;
+    margin-top: 32px;
+    top: -27px;
+}
+
+.logo img {
+    width: 410px;
+    height: 70px;
+    margin-left: 170px;
+}
+
+.navbar #logo2 {
+    width: 60px;
+    height: 60px;
+    margin-left: -150px;
+    margin-top: 5px;
+    position: relative;
+    left: -80px;
+}
+
+.navbar #logo4 {
+    width: 120px;
+    height: 120px;
+    margin-left: -70px;
+}
+
+.box {
+    margin-top: 50px;
+    margin-left: 230px;
+    height: 385px;
+    border-radius: 20px;
+    background-color: rgb(24, 24, 24);
+}
+
+.box h4 {
+    font-size: 3rem;
+    margin-top: -130px;
+    margin-left: 175px;
+}
+
+.box p {
+    font-size: 2.7rem;
+    margin-top: 20px;
+    width: 600px;
+    margin-left: 175px;
+}
+
+.box img {
+    width: 100px;
+    height: 100px;
+    margin-top: 130px;
+    margin-left: 35px;
+}
+
+#img0 {
+    width: 70px;
+    height: 80px;
+    top: -490px;
+    left: 860px;
+}
+
+.container {
+    margin-top: 500px;
+}
+
+.menu {
+    top: -630px;
+    left: 22px;
+    width: 46px;
+    height: 54px;
+}
+.container h1{
+    font-size: 6.8rem;
+    text-align: center;
+}
+.container p{
+    width: 690px;
+    font-size: 3.5rem;
+    text-align: center;
+}
+.container #first{
+    margin-top: 750px;
+}
+.container #img1{
+    left: 20px;
+    top: 620px;
+    width: 750px;
+    height: 800px;
+}
+
+

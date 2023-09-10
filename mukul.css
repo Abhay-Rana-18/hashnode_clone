@@ -1,0 +1,39 @@
+.bar{
+    display: flex;
+    border: 1px white;
+    background-color: black;
+}
+.bar li{
+    list-style: none;
+    padding: 0px 20px;
+}
+.bar a{
+    text-decoration: none;
+    color:  white;
+    font-size: 15px;
+}
+/* .logo::before{
+    background-color: black;
+    z-index: -1;
+    position: absolute;
+    content: '';
+} */
+.logo{
+    border: 2px solid black;
+}
+.logo img{
+    width: 95px;
+    height: 40px;
+}
+.logo input{
+    float: right;
+    background-color: lightslategray;
+    text-align: center;
+    /* color: white; */
+}
+.logo input::placeholder{
+    color: white;
+}
+.logo i{
+    margin-left: 20px;
+}
